@@ -29,7 +29,7 @@ After data downloaded (Apr2020-Mar2021), following changes done in file:
 5. Calculate the number of rides for users by day_of_week by adding Count of trip_id to Values.
 
 ## Share:
-![image](https://user-images.githubusercontent.com/72040187/132128680-cf85fed2-6a20-4275-871b-b3e4312108a5.png)
+![image](https://user-images.githubusercontent.com/72040187/132130483-22ef12e2-42a9-40e9-ada2-56e27f9b02e1.png)
 ![image](https://user-images.githubusercontent.com/72040187/132128799-1ae0aa9b-7895-4493-9d6e-9d0aac7e052a.png)
 ![image](https://user-images.githubusercontent.com/72040187/132128862-557a2366-902c-44e5-9cfd-bc000d77c22f.png)
 ![image](https://user-images.githubusercontent.com/72040187/132129019-08709c39-7e70-4ab2-8988-4628e55107e0.png)
