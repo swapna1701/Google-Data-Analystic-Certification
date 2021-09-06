@@ -1,15 +1,33 @@
-# Google-Data-Analystic-Certification
+# Google-Data-Analystic-Certification - Capstone
 # # A Case Study On Usage Of Bike By Subscriber And Non Subscriber:
 
 ## Project Overview: 
 Cyclistic Ltd. is bike-sharing company which has grown to a fleet of 5,824 bicycles into a network of 692 stations across Chicago.
 
+## Ask
+
+## Key Questions:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
 ## Project Goal:
-Identify usage of Cyclistic bike by annual subscriber and non subscriber, and to convert non subscriber to subscriber.
+Director assigned first question to answer: How do annual members and casual riders use Cyclistic bikes
+differently?
 
 ## Sources:
-Data (The datasets have a different name because Cyclistic is a fictional company) : https://divvy-tripdata.s3.amazonaws.com/index.html
+Data : https://divvy-tripdata.s3.amazonaws.com/index.html
 License : https://www.divvybikes.com/data-license-agreement
+Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and will enable to answer the business questions.
+
+
+## ROCC
+Reliability: The data came from the bicycles(tracker)
+Originality: The data came from the primary source (Motivate International Inc)
+Comprehensive: The data contains start time and end time, membership type, and starting station and ending station, this should be sufficient to identify the trends and conduct analyses.
+Current: The data is based on the most recent 12 month-period available.
+Cited: The data came from the primary source
+
 
 ## Data Cleaning:
 After data downloaded (Apr2020-Mar2021), following changes done in file:
