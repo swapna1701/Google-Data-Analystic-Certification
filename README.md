@@ -1,4 +1,4 @@
-# Google-Data-Analystic-Certification - Capstone
+# Google_Data_Analytics_Capstone_Case_study
 # # A Case Study On Usage Of Bike By Subscriber And Non Subscriber:
 
 ## Project Overview: 
